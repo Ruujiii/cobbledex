@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Bulbasaur",
         "types": ["Grass", "Poison"],
-        "image": "/public/images/1.png",
+  "image": "/images/1.png",
         "abilities": ["Overgrow", "Chlorophyll"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Special Attack",
@@ -62,21 +62,21 @@
           {
             "stage": 1,
             "name": "Bulbasaur",
-            "image": "/public/images/1.png",
+            "image": "/images/1.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Ivysaur",
-            "image": "/public/images/2.png",
+            "image": "/images/2.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Venusaur",
-            "image": "/public/images/3.png",
+            "image": "/images/3.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 32"
           }
@@ -86,7 +86,7 @@
         "id": 2,
         "name": "Ivysaur",
         "types": ["Grass", "Poison"],
-        "image": "/public/images/2.png",
+  "image": "/images/2.png",
         "abilities": ["Overgrow", "Chlorophyll"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Special Attack, 1 Special Defense",
@@ -144,21 +144,21 @@
           {
             "stage": 1,
             "name": "Bulbasaur",
-            "image": "/public/images/1.png",
+            "image": "/images/1.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Ivysaur",
-            "image": "/public/images/2.png",
+            "image": "/images/2.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Venusaur",
-            "image": "/public/images/3.png",
+            "image": "/images/3.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 32"
           }
@@ -168,7 +168,7 @@
         "id": 3,
         "name": "Venusaur",
         "types": ["Grass", "Poison"],
-        "image": "/public/images/3.png",
+  "image": "/images/3.png",
         "abilities": ["Overgrow", "Chlorophyll"],
         "levelingRate": "Medium Slow",
         "evYield": "2 Special Attack, 1 Special Defense",
@@ -228,21 +228,21 @@
           {
             "stage": 1,
             "name": "Bulbasaur",
-            "image": "/public/images/1.png",
+            "image": "/images/1.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Ivysaur",
-            "image": "/public/images/2.png",
+            "image": "/images/2.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Venusaur",
-            "image": "/public/images/3.png",
+            "image": "/images/3.png",
             "types": ["Grass", "Poison"],
             "evolutionMethod": "Level 32"
           }
@@ -252,7 +252,7 @@
         "id": 4,
         "name": "Charmander",
         "types": ["Fire"],
-        "image": "/public/images/4.png",
+  "image": "/images/4.png",
         "abilities": ["Blaze", "Solar Power"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Speed",
@@ -307,21 +307,21 @@
           {
             "stage": 1,
             "name": "Charmander",
-            "image": "/public/images/4.png",
+            "image": "/images/4.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Charmeleon",
-            "image": "/public/images/5.png",
+            "image": "/images/5.png",
             "types": ["Fire"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Charizard",
-            "image": "/public/images/6.png",
+            "image": "/images/6.png",
             "types": ["Fire", "Flying"],
             "evolutionMethod": "Level 36"
           }
@@ -331,7 +331,7 @@
         "id": 5,
         "name": "Charmeleon",
         "types": ["Fire"],
-        "image": "/public/images/5.png",
+  "image": "/images/5.png",
         "abilities": ["Blaze", "Solar Power"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Speed, 1 Special Attack",
@@ -385,21 +385,21 @@
           {
             "stage": 1,
             "name": "Charmander",
-            "image": "/public/images/4.png",
+            "image": "/images/4.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Charmeleon",
-            "image": "/public/images/5.png",
+            "image": "/images/5.png",
             "types": ["Fire"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Charizard",
-            "image": "/public/images/6.png",
+            "image": "/images/6.png",
             "types": ["Fire", "Flying"],
             "evolutionMethod": "Level 36"
           }
@@ -409,7 +409,7 @@
         "id": 6,
         "name": "Charizard",
         "types": ["Fire", "Flying"],
-        "image": "/public/images/6.png",
+  "image": "/images/6.png",
         "abilities": ["Blaze", "Solar Power"],
         "levelingRate": "Medium Slow",
         "evYield": "3 Special Attack",
@@ -467,21 +467,21 @@
           {
             "stage": 1,
             "name": "Charmander",
-            "image": "/public/images/4.png",
+            "image": "/images/4.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Charmeleon",
-            "image": "/public/images/5.png",
+            "image": "/images/5.png",
             "types": ["Fire"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Charizard",
-            "image": "/public/images/6.png",
+            "image": "/images/6.png",
             "types": ["Fire", "Flying"],
             "evolutionMethod": "Level 36"
           }
@@ -491,7 +491,7 @@
         "id": 7,
         "name": "Squirtle",
         "types": ["Water"],
-        "image": "/public/images/7.png",
+  "image": "/images/7.png",
         "abilities": ["Torrent", "Rain Dish"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Defense",
@@ -548,21 +548,21 @@
           {
             "stage": 1,
             "name": "Squirtle",
-            "image": "/public/images/7.png",
+            "image": "/images/7.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Wartortle",
-            "image": "/public/images/8.png",
+            "image": "/images/8.png",
             "types": ["Water"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Blastoise",
-            "image": "/public/images/9.png",
+            "image": "/images/9.png",
             "types": ["Water"],
             "evolutionMethod": "Level 36"
           }
@@ -572,7 +572,7 @@
         "id": 8,
         "name": "Wartortle",
         "types": ["Water"],
-        "image": "/public/images/8.png",
+  "image": "/images/8.png",
         "abilities": ["Torrent", "Rain Dish"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Defense, 1 Special Defense",
@@ -629,21 +629,21 @@
           {
             "stage": 1,
             "name": "Squirtle",
-            "image": "/public/images/7.png",
+            "image": "/images/7.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Wartortle",
-            "image": "/public/images/8.png",
+            "image": "/images/8.png",
             "types": ["Water"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Blastoise",
-            "image": "/public/images/9.png",
+            "image": "/images/9.png",
             "types": ["Water"],
             "evolutionMethod": "Level 36"
           }
@@ -653,7 +653,7 @@
         "id": 9,
         "name": "Blastoise",
         "types": ["Water"],
-        "image": "/public/images/9.png",
+  "image": "/images/9.png",
         "abilities": ["Torrent", "Rain Dish"],
         "levelingRate": "Medium Slow",
         "evYield": "3 Special Defense",
@@ -711,21 +711,21 @@
           {
             "stage": 1,
             "name": "Squirtle",
-            "image": "/public/images/7.png",
+            "image": "/images/7.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Wartortle",
-            "image": "/public/images/8.png",
+            "image": "/images/8.png",
             "types": ["Water"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Blastoise",
-            "image": "/public/images/9.png",
+            "image": "/images/9.png",
             "types": ["Water"],
             "evolutionMethod": "Level 36"
           }
@@ -735,12 +735,12 @@
         "id": 25,
         "name": "Pikachu",
         "types": ["Electric"],
-        "image": "/public/images/25.png",
+  "image": "/images/25.png",
         "evolutionData": [
           {
             "stage": 1,
             "name": "Pikachu",
-            "image": "/public/images/25.png",
+            "image": "/images/25.png",
             "types": ["Electric"],
             "evolutionMethod": "Starting Pokémon"
           },
@@ -756,7 +756,7 @@
         "id": 152,
         "name": "Chikorita",
         "types": ["Grass"],
-        "image": "/public/images/152.png",
+  "image": "/images/152.png",
         "abilities": ["Overgrow", "Leaf Guard"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Special Defense",
@@ -813,7 +813,7 @@
           {
             "stage": 1,
             "name": "Chikorita",
-            "image": "/public/images/152.png",
+            "image": "/images/152.png",
             "types": ["Grass"],
             "evolutionMethod": "Starting Pokémon"
           },
@@ -835,7 +835,7 @@
         "id": 155,
         "name": "Cyndaquil",
         "types": ["Fire"],
-        "image": "/public/images/155.png",
+  "image": "/images/155.png",
         "abilities": ["Blaze", "Flash Fire"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Special Attack",
@@ -893,7 +893,7 @@
           {
             "stage": 1,
             "name": "Cyndaquil",
-            "image": "/public/images/155.png",
+            "image": "/images/155.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
@@ -915,7 +915,7 @@
         "id": 158,
         "name": "Totodile",
         "types": ["Water"],
-        "image": "/public/images/158.png",
+  "image": "/images/158.png",
         "abilities": ["Torrent", "Sheer Force"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Attack",
@@ -974,7 +974,7 @@
           {
             "stage": 1,
             "name": "Totodile",
-            "image": "/public/images/158.png",
+            "image": "/images/158.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
@@ -996,7 +996,7 @@
         "id": 212,
         "name": "Scizor",
         "types": ["Bug", "Steel"],
-        "image": "/public/images/212.png",
+  "image": "/images/212.png",
         "abilities": ["Swarm", "Technician"],
         "levelingRate": "Medium Slow",
         "evYield": "2 Attack",
@@ -1056,14 +1056,14 @@
           {
             "stage": 1,
             "name": "Scyther",
-            "image": "/public/images/123.png",
+            "image": "/images/123.png",
             "types": ["Bug", "Flying"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Scizor",
-            "image": "/public/images/212.png",
+            "image": "/images/212.png",
             "types": ["Bug", "Steel"],
             "evolutionMethod": "Level up with Metal Coat"
           }
@@ -1073,7 +1073,7 @@
         "id": 252,
         "name": "Treecko",
         "types": ["Grass"],
-        "image": "/public/images/252.png",
+  "image": "/images/252.png",
         "abilities": ["Overgrow", "Unburden"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Speed",
@@ -1131,21 +1131,21 @@
           {
             "stage": 1,
             "name": "Treecko",
-            "image": "/public/images/252.png",
+            "image": "/images/252.png",
             "types": ["Grass"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Grovyle",
-            "image": "/public/images/253.png",
+            "image": "/images/253.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Sceptile",
-            "image": "/public/images/254.png",
+            "image": "/images/254.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 36"
           }
@@ -1155,7 +1155,7 @@
         "id": 253,
         "name": "Grovyle",
         "types": ["Grass"],
-        "image": "/public/images/253.png",
+  "image": "/images/253.png",
         "abilities": ["Overgrow", "Unburden"],
         "levelingRate": "Medium Slow",
         "evYield": "2 Speed",
@@ -1219,21 +1219,21 @@
           {
             "stage": 1,
             "name": "Treecko",
-            "image": "/public/images/252.png",
+            "image": "/images/252.png",
             "types": ["Grass"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Grovyle",
-            "image": "/public/images/253.png",
+            "image": "/images/253.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Sceptile",
-            "image": "/public/images/254.png",
+            "image": "/images/254.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 36"
           }
@@ -1243,7 +1243,7 @@
         "id": 254,
         "name": "Sceptile",
         "types": ["Grass"],
-        "image": "/public/images/254.png",
+  "image": "/images/254.png",
         "abilities": ["Overgrow", "Unburden"],
         "levelingRate": "Medium Slow",
         "evYield": "3 Speed",
@@ -1306,21 +1306,21 @@
           {
             "stage": 1,
             "name": "Treecko",
-            "image": "/public/images/252.png",
+            "image": "/images/252.png",
             "types": ["Grass"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Grovyle",
-            "image": "/public/images/253.png",
+            "image": "/images/253.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Sceptile",
-            "image": "/public/images/254.png",
+            "image": "/images/254.png",
             "types": ["Grass"],
             "evolutionMethod": "Level 36"
           }
@@ -1330,7 +1330,7 @@
         "id": 255,
         "name": "Torchic",
         "types": ["Fire"],
-        "image": "/public/images/255.png",
+  "image": "/images/255.png",
         "abilities": ["Blaze", "Speed Boost"],
         "levelingRate": "Medium Slow",
         "evYield": "1 Special Attack",
@@ -1388,21 +1388,21 @@
           {
             "stage": 1,
             "name": "Torchic",
-            "image": "/public/images/255.png",
+            "image": "/images/255.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Combusken",
-            "image": "/public/images/256.png",
+            "image": "/images/256.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Blaziken",
-            "image": "/public/images/257.png",
+            "image": "/images/257.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level 36"
           }
@@ -1412,7 +1412,7 @@
         "id": 256,
         "name": "Combusken",
         "types": ["Fire", "Fighting"],
-        "image": "/public/images/256.png",
+  "image": "/images/256.png",
         "abilities": ["Blaze", "Speed Boost"],
         "levelingRate": "Medium Slow",
         "evYield": "2 Special Attack",
@@ -1473,21 +1473,21 @@
           {
             "stage": 1,
             "name": "Torchic",
-            "image": "/public/images/255.png",
+            "image": "/images/255.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Combusken",
-            "image": "/public/images/256.png",
+            "image": "/images/256.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Blaziken",
-            "image": "/public/images/257.png",
+            "image": "/images/257.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level 36"
           }
@@ -1497,7 +1497,7 @@
         "id": 257,
         "name": "Blaziken",
         "types": ["Fire", "Fighting"],
-        "image": "/public/images/257.png",
+  "image": "/images/257.png",
         "abilities": ["Blaze", "Speed Boost"],
         "levelingRate": "Medium Slow",
         "evYield": "3 Attack",
@@ -1560,21 +1560,21 @@
           {
             "stage": 1,
             "name": "Torchic",
-            "image": "/public/images/255.png",
+            "image": "/images/255.png",
             "types": ["Fire"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Combusken",
-            "image": "/public/images/256.png",
+            "image": "/images/256.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level up to 16"
           },
           {
             "stage": 3,
             "name": "Blaziken",
-            "image": "/public/images/257.png",
+            "image": "/images/257.png",
             "types": ["Fire", "Fighting"],
             "evolutionMethod": "Level up to 36"
           }
@@ -1584,7 +1584,7 @@
         "id": 258,
         "name": "Mudkip",
         "types": ["Water"],
-        "image": "/public/images/258.png",
+  "image": "/images/258.png",
         "abilities": ["Torrent", "Damp"],
         "levelingRate": "Slow",
         "evYield": "1 Attack, 1 Special Attack",
@@ -1642,21 +1642,21 @@
           {
             "stage": 1,
             "name": "Mudkip",
-            "image": "/public/images/258.png",
+            "image": "/images/258.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Marshtomp",
-            "image": "/public/images/259.png",
+            "image": "/images/259.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Swampert",
-            "image": "/public/images/260.png",
+            "image": "/images/260.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 36"
           }
@@ -1666,7 +1666,7 @@
         "id": 259,
         "name": "Marshtomp",
         "types": ["Water", "Ground"],
-        "image": "/public/images/259.png",
+  "image": "/images/259.png",
         "abilities": ["Torrent", "Damp"],
         "levelingRate": "Medium Slow",
         "evYield": "2 HP",
@@ -1725,21 +1725,21 @@
           {
             "stage": 1,
             "name": "Mudkip",
-            "image": "/public/images/258.png",
+            "image": "/images/258.png",
             "types": ["Water"],
             "evolutionMethod": "Starting Pokémon"
           },
           {
             "stage": 2,
             "name": "Marshtomp",
-            "image": "/public/images/259.png",
+            "image": "/images/259.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 3,
             "name": "Swampert",
-            "image": "/public/images/260.png",
+            "image": "/images/260.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 36"
           }
@@ -1749,7 +1749,7 @@
         "id": 260,
         "name": "Swampert",
         "types": ["Water", "Ground"],
-        "image": "/public/images/260.png",
+  "image": "/images/260.png",
         "abilities": ["Torrent", "Damp"],
         "levelingRate": "Medium Slow",
         "evYield": "3 HP",
@@ -1811,21 +1811,21 @@
           {
             "stage": 1,
             "name": "Mudkip",
-            "image": "/public/images/258.png",
+            "image": "/images/258.png",
             "types": ["Water"],
             "evolutionMethod": "Level 16"
           },
           {
             "stage": 2,
             "name": "Marshtomp",
-            "image": "/public/images/259.png",
+            "image": "/images/259.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 36"
           },
           {
             "stage": 3,
             "name": "Swampert",
-            "image": "/public/images/260.png",
+            "image": "/images/260.png",
             "types": ["Water", "Ground"],
             "evolutionMethod": "Level 36"
           }

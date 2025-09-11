@@ -1,4 +1,3 @@
-import React from "react"
 import { Card } from "../ui/card"
 import { PokemonTypeTag, PokemonTypeValue } from './PokemonType'
 

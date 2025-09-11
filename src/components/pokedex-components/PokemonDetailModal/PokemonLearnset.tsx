@@ -1,4 +1,3 @@
-import React from 'react'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "../../ui/table"
 import { PokemonTypeTag, PokemonTypeValue } from '../PokemonType'
 import { getCategoryColor } from '../../utils/pokemonHelpers'

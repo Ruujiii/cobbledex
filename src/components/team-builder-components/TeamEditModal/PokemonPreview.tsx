@@ -1,4 +1,3 @@
-import React from 'react'
 import { Button } from '../../ui/button'
 import { PokemonData, PokemonTeamMember } from '../../../types/pokemon'
 import { typeColors } from './utils'

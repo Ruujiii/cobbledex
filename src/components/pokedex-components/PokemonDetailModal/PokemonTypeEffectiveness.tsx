@@ -1,4 +1,3 @@
-import React from 'react'
 import { PokemonTypeValue, pokemonTypes, typeColors } from '../PokemonType'
 
 interface PokemonTypeEffectivenessProps {

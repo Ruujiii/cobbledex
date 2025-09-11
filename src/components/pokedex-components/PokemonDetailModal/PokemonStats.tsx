@@ -1,4 +1,3 @@
-import React from 'react'
 import { getStatColor } from '../../utils/pokemonHelpers'
 
 interface PokemonStatsProps {

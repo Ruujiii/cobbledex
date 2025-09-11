@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react'
+import { useRef, useEffect } from 'react'
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "../ui/dialog"
 import { PokemonBasicInfo } from './PokemonDetailModal/PokemonBasicInfo'
 import { PokemonStats } from './PokemonDetailModal/PokemonStats'

@@ -1,4 +1,3 @@
-import React from 'react'
 import { Label } from '../../ui/label'
 import { Slider } from '../../ui/slider'
 import { PokemonData, PokemonTeamMember, Stats } from '../../../types/pokemon'

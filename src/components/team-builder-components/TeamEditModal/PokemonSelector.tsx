@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { PokemonData } from '../../../types/pokemon'
 import { Button } from '../../ui/button'
 import { Input } from '../../ui/input'

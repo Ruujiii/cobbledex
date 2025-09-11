@@ -23,6 +23,7 @@
     "@radix-ui/react-slot": "^1.1.0",
     "@react-three/drei": "^9.112.0",
     "@react-three/fiber": "^8.17.6",
+    "@reduxjs/toolkit": "^2.9.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",

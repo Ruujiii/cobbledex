@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { TeamCard } from './TeamCard'
 import { Button } from '../ui/button'
 import { PokemonData, PokemonTypeValue } from '../../types/pokemon'

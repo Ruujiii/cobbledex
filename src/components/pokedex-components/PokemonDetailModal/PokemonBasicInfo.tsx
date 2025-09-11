@@ -1,4 +1,3 @@
-import React from 'react'
 import { PokemonTypeTag, PokemonTypeValue } from '../PokemonType'
 import { PokemonRegion } from './pokemonRegions'
 import { PokemonSpawnLocation } from './pokemonSpawnLocations'

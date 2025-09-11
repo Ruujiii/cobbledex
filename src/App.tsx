@@ -1,11 +1,9 @@
-import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Pokedex from './components/pokedex-components/Pokedex';
 import Items from './components/items-components/Items';
 import Blocks from './components/blocks-components/Blocks';
 // import { PokemonGrid } from './components/pokedex-components/PokemonGrid';
 import pokemonDataJson from "./data/pokemonData.json"
-import { Navbar } from './components/Navbar';
 import ErrorBoundary from './ErrorBoundary';
 import { TeamBuilder } from './components/team-builder-components/TeamBuilder';
 import { isPokemonData } from './utils/typeGuards';

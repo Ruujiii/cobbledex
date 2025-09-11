@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import { useState, useEffect } from "react"
 import { Navbar } from "../Navbar"
 import { PokedexSearch } from "./PokedexSearch"
 import { PokemonCard } from "./PokemonCard"

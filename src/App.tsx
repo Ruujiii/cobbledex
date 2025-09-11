@@ -1,6 +1,8 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Pokedex from './components/pokedex-components/Pokedex';
+import Items from './components/items-components/Items';
+import Blocks from './components/blocks-components/Blocks';
 // import { PokemonGrid } from './components/pokedex-components/PokemonGrid';
 import pokemonDataJson from "./data/pokemonData.json"
 import { Navbar } from './components/Navbar';
@@ -20,11 +22,11 @@ function App() {
             <Route path="/" element={<Pokedex />} />
             {/* <Route path="/pokemon" element={<PokemonGrid />} /> */}
             <Route path="/team-builder" element={<TeamBuilder availablePokemon={availablePokemon} />} />
-            <Route path="/items" element={<Navbar />} />
-            <Route path="/blocks" element={<Navbar />} />
+            <Route path="/items" element={<Items />} />
+            <Route path="/blocks" element={<Blocks />} />
           </Routes>
         </main>
-      </div>
+      </div>s
     </ErrorBoundary>
   );
 }
